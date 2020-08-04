@@ -1,6 +1,6 @@
 const Sequelize = require('sequelize');
 
-const conection = new Sequelize('Perguntas', 'zero3', 'onmargatesands',{
+const conection = new Sequelize('Perguntas', 'Coloque o seu usuario do banco de dados aqui', 'Coloque sua senha',{
 
 
     host: 'localhost',
